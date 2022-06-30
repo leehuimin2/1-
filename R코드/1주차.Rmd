@@ -1,0 +1,29 @@
+---
+title: "1주차 스크립트"
+output: html_document
+date: '2022-06-30'
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+R markdown은 **R Studio**에서 markdown 스크립트를 작성할 수 있게 해주는 형식이다.
+
+# (1) CheetSheet
+
+https://www.rstudio.com/resources/cheatsheets/
+
+---
+
+|제목|내용|
+|:-:|-|
+|안녕하세요|안녕하세요|
+
+
+![hi](치타.jpg)
+
+
+
+
+
